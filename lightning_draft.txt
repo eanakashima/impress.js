@@ -41,7 +41,7 @@ I didn't have much to do when I got here, but one night, my now boyfriend was at
 
 He suggested I try RailsBridge (my first one was RailsBridge #2), and even came with me because I was scared I would be totally lost.
 
-[X1 9 Slide: BOOKS BOOKS BOOKS]
+[XXX 9 Slide: BOOKS BOOKS BOOKS]
 
 In all, I spent 2 years being unemployed, but I used my time optimistically.
 [I read books
@@ -51,11 +51,11 @@ I read the Structure and Interpretation of Computer Programs (SICP) ]
 
 I attended 4 RailsBridge workshops in a row, before I started helping out. *Visual
 I attended ruby meetups about every possible subject*
-I went to php meetups, where they kept talking about node.js [wat].
+I went to php meetups, where they kept talking about node.js [XXX wat].
 I attended the only django meetup I've ever heard of.
 I attended conferences where I felt like the dumbest person in the room.
 
-And I started going to the gym [WAT], because my gym buddy at the time would tell me about complex data structures while we did sit ups and ran on the treadmill.
+And I started going to the gym [XXX WAT], because my gym buddy at the time would tell me about complex data structures while we did sit ups and ran on the treadmill.
 
 [X2 10 Slide: LESSION #5: HAPPY RACHEL]
 
