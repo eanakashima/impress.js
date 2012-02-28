@@ -1,0 +1,116 @@
+WWC Lightning Talk
+
+#Rachel Myers and Emily Nakashima
+##aka Jay and Silent Bob
+##aka @rachelmyers and @eanakashima
+
+#January 2012,
+##I'm an Associate Software Engineer at Modcloth
+	*Ruby, rails, easy javascript, html and css
+	*I consider myself a rubist, but no one does just one thing
+##Emily is a UI Engineer at Modcloth
+	*Difficult javascript, for serious css, and ruby and rails
+	*She's a front end expert, but no one can do just one thing.
+
+#Normal, non-nerd starts in life
+	*In HS I was in math and science clubs. My only programming was a math game written in QBasic.
+	*I wasn't interested in being a computer person.
+	*By contrast, in HS Emily was a computer person; she spent quality time with Photoshop and desktop publishing software. 
+	*When she tried to learn programming, the library's progamming books were strangely about snakes and the alphabet.
+
+#Rachel's Dramatically Bad Decisions about her life
+	*I studied philosophy at a football school in Texas
+	*After graduating, I spent two years doing community servicey things, because I didn't know what to do with my life.
+	*Then I spent two years getting a Masters in philosophy
+	 	(with a specialization in the philosophy of color, which is badass, but useless!)
+	*Then, I moved to Oakland to be with a nice guy I met a few months before at a wedding.
+	*I got started learning to progtam one night, as I saw him trying to work out matrix math. He wanted to rewrite a portion of one of his websites in C so he could control the memory management. He was doing the math wrong, so I did it for him.
+	*Then I started asking what he would do with this number we figured out. He suggested I go to RailsBridge, my first one was RailsBridge #2, and even came with me because I was scared I would be the dumbest one there. 
+#Emily's Dramatically bad decisions about her life:
+	*Moved to Seattle ... because she loved walking long distances in the rain
+	*She found a job moving heavy things all day in a mail order fulfillment warehouse. 
+	*She assures me that she was just as happy as you'd expect.
+	*She saw her college friends working at Microsoft making 2 to 4 times more $$$
+	*It wasn't fair; they weren't smarter or harder-working than she was, so she decided that she too could have glorious career in Technology!!!
+	*She thought her degree would make it easier to be a UX/UI designer, so she interviewed at Microsoft. INCORRECT!
+	*So she moved to Oakland to be roommates with her ex and started for reals.
+#I spent two years being unemployed! OMFG. Two Whole Years. But, I used my unemployed time optimistically
+	*I read Why's poignant's guide
+	*I read the Well Grounded Rubyist
+	*I attended 4 RailsBridge workshops in a row, before I started helping out.
+	*I attended ruby meetups about every possible subject
+	*I worked the Ruby Koans
+	*I attended conferences where I was the dumbest person in the room
+	*I read the Structure and Interpretation of Computer Programs (SICP) (It's written in LISP but I worked the problems in ruby and then javascript)
+##Emily spent a year being underemployed.
+	*The dumped her contact information into every creative / tech staffing database in the universe
+	*She expected design jobs, but got interviews for a front-end position
+	*She over-billed herself in her resume, and then wasn't asked any code-related questions in the interview
+	*LIFE LESSON: Barrier to entry for contract staffing jobs is usually lower -- prove yourself when you get there
+	*Her primary skills at this point were really HTML (which, alone, you can't do much with) and conversational English
+	*They hired her thinking she knew CSS, but secretly, Emily was learning CSS on the job
+	*Before that, 90% of her CSS work had been for her portfolio site
+#In 2009, I went to a meetup, and in response to a speaker, shouted that I'd work for free if I could work with Sarah Allen
+	*I bombed my interview with Blazing Cloud
+	*I didn't know html, CSS, Javascript, SQL, git, gems, how databases work, patterns, hard ruby or anything beyond basic rails, or the whole ecosystem of resources and skills I use all the time now.
+	*Despite all that, I was hired as the free (or freeloader?) intern at Blazing Cloud; contract said "having you around will slow us down and loose us money, but you can stay anyway."
+	*My work was the stuff other people considered shit work, but it was awesome for me
+	*Because I was an intern, people told me what to read and took me under wing
+	*Eventually, I could make small apps that someone actually needed, usually while pairing with someone more experienced, and while asking lots of questions
+#In Emily's case, she found that the manager of the adjacent developer group was living in a Kathy cartoon, where she was always understaffed and had wavy lines emanating from her head to show that she was stressed.
+	*Emily volunteered to work on that team's bijillion PHP bugs when she had extra time
+		*She had no idea what was doing
+		*But people love volunteers for menial tasks
+		*Then she volunteered to work on a buggy Rails apps and came down with a serious case of Rails WTF
+	*She read every dev book that seemed relevant, but wasn't sure where to get started with programming
+	*She went to a bazillion meetups
+	*Finally read "C Primer Plus" and things started clicking after that
+	*LIFE LESSON: High-churn, high misery environments may mean you get to be senior quickly!
+	*She became friends with the smartest, sanest people I could find amid the misery and followed them to her next job
+
+#After 6 months as an intern I wanted a junior but real engineer position
+	*I worked white board problems from the internet for practice
+	*I got several friends to interview me as if I was applying at their company and give me honest feedback
+	*my resume said "look at all these things I've done in the last 6 months!"
+	*I applied to as many places as I could with a genuine email. An email I actually sent:
+
+Hi [Company]!
+I've been the Rails Intern at Blazing Cloud for 7 months, and I'm looking for a junior developer position.  I feel like I know a bit about [Company] because I'm active in the SF Ruby meetup group and RailsBridge, and [Company] has been a great supporter of both.  I'm not sure if the Junior Developer position is right for me, but please let me know if one is!
+Cheers!
+Rachel Myers
+<Myers_resume.pdf>
+
+	*I got some offers for non developer positions, but took a position as a junior developer
+#Emily's LinkedIn profile said "HTML/CSS/Javascript and learning Ruby" and she still got contacted by recruiters for Ruby jobs
+	*The barrier between "know nothing about Ruby" and "learning Ruby" is about 1 hour
+	*But put the second one on your resume
+#While you're learning, balance figuring it out yourself and asking for help
+	*When we're working on something difficult, Emily's more likely to hide in a cave with books and Google until she figures something out; I'm more likely to find an expert and ask questions. You have to master both of these
+	*It's not hard to find other friendly developers who want to help (through Meetups, jobs, etc.) But you'll get a better response if you seem like you've done your homework first instead of running to someone as soon as you get stuck
+#Advice before going pro
+##My advice is to learn all the things I didn't know I needed to learn.
+	*Learn HTML and CSS
+	*Learn how the internet works. (It's a common interview question!)
+	*Then pick a language (for the web, javascript, ruby, python) and learn that well
+	*Learn how computers work, because even if you are proficient at a high level language like ruby, low level stuff that you don't even know about can bite you.
+##Emily's advice is to learn any way you can
+	*Don't worry if you're confused when you read a book or go to a meetup
+	*Tricky concepts require circling around, even for smart people like all of us.
+	*Come back to books / videos later after working on something else for a bit (there are Crockford talks she's watched like 5 times)
+	*Things may not click until you come across the right book / talk / project ("C Primer Plus", SICP, etc)
+	*If you can do actual work (even for free) instead of tutorials / demo projects, say yes!
+	*If you do well in a classroom setting, take classes (UC Extension, Blazing Cloud, etc.) but find a real project to make this knowledge stick!
+#Learning never stops
+##Rachel's learning
+	*Code that's optimized for humans, that's not just functional, but easy to read and maintain
+	("Communicating with our computers used to be the hardest thing about developing systems.  It has taken years, but advances in programming languages, programming environments, and programming style have largely eliminated the barriers to instructing the computer" 
+	-Smalltalk Best Pracice Patterns by Kent Beck)
+	*all of the git. I want to know every last gitty detail.
+	*patterns for distributed systems / service-oriented architecture 
+	*always: basics I would have learned in a CS program
+##Emily's learning
+	*ruby / rails
+	*Software design patterns (both high-level & implementation)
+	*Mobile development
+	*always: basics she would have learned in a CS program
+
