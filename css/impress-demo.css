@@ -440,6 +440,8 @@ body     { pointer-events: none; }
 }
 
 .slide q { display: block; margin-top: 100px; font-size: 50px; line-height: 72px; }
-.slide h1 { font-size: 72px; font-weight: 800; text-transform: uppercase; }
+.slide h1 { font-size: 72px; font-weight: 900; text-transform: uppercase; color: #222; }
+.slide h2 { font-size: 36px; font-weight: 700; padding-top: 24px; line-height: 1.2; text-transform: uppercase; }
 
-.lesson {color: rgba(254,50,141,1); font-size: 60%;}
+.slide .lesson {color: rgba(254,50,141,1); font-size: 60%; line-height: 2;}
+.slide .pink {color: rgba(254,50,141,1);}
