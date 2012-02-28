@@ -57,26 +57,24 @@ I attended conferences where I felt like the dumbest person in the room.
 
 And I started going to the gym [XXX WAT], because my gym buddy at the time would tell me about complex data structures while we did sit ups and ran on the treadmill.
 
-[X2 10 Slide: LESSION #5: HAPPY RACHEL]
+[XXX 10 Slide: LESSION #5: HAPPY RACHEL]
 
 Then, in 2009, I was at a normal sf ruby meetup. In response to a question, Sarah Allen said she always was looking for new young developers to work with and I shouted out "I'll work for free if I get to pair with Sarah" ... but I bombed my interview with her company, Blazing Cloud. I didn't know html, CSS, Javascript, SQL, git, gems, how databases work, patterns, hard ruby or anything beyond basic rails, or the whole ecosystem of resources and skills I use all the time now. 
 
-[10b. Slide: LESSION #5: HAPPY RACHEL / SAD CLOUD]
+[XXX 10b. Slide: LESSION #5: HAPPY RACHEL / SAD CLOUD]
 
 But I was hired as the free intern at Blazing Cloud; the contract said "having you around will slow us down and loose us money, but you can stay anyway." I was stoked! The projects I paired on and then got as my own were the projects other people probably considered shit work. I loved it. And because I was the intern, people mentored me, and gave me reading suggestions.
 
 
-[10c. SLIDE: Life Lesson #5: Get onto a real-life project any way you can.]
+[XXX 10c. SLIDE: Life Lesson #5: Get onto a real-life project any way you can.]
 
 The same thing happened to Emily -- she was hired to do html/css work, but the manager of the back-end group lived in a Kathy cartoon, always looking stressed out with wavy lines around her head, so Emily volunteered to help out on back-end bugs.
-
-[10d. SLIDE: Life Lesson #5: Get onto a real-life project any way you can.]
-*Visual* Life lesson #5: No matter how you learn, find a real project to work on, even if you have to work for free or in the financial services industry.
+Life lesson #5: No matter how you learn, find a real project to work on, even if you have to work for free or in the financial services industry.
 
 
 After 6 months of working as an intern on small and easy projects, I had learned a lot, and wanted my chance at a junior engineer position. So I practiced working white board problems from the internet. I got friends to interview me and give me honest feedback. And I updated my resume to say "look at all the things I've done in the last six months!"
 
-[X3 11 SLIDE: LESSON 8: ASPIRATIONAL RESUME] Life lesson #6: Make your resume aspirational. If you want to do something, try it and tell people you're trying.
+[XXX 11 ASPIRATIONAL RESUME] Life lesson #6: Make your resume aspirational. If you want to do something, try it and tell people you're trying.
 
 Then I applied to as many places as I could with a genuine email. Here's one I actually sent:
 
@@ -89,7 +87,7 @@ Rachel Myers
 
 What I didn't realize at the time was tapped into a current. People who support RailsBridge are there to help people level up their engineering skills, and I presented myself as an alum, ready to level up. Sometimes organizations won't know where to put in a junior engineer, but there are a lot of people in the community who want to help bring in new talent.
 
-[X4 12 SLIDE: Life Lesson #8: Find the people that want to help you. Tap into the Developer Mafia.)
+[XXX 12 SLIDE: Life Lesson #7: Find the people that want to help you. Tap into the Developer Mafia.)
 
 My crazy letter and charm actually landed me two job offers, and I had to choose. The first offer was for non developer position with the promise of transitioning to engineering. 
 
