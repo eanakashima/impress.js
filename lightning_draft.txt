@@ -10,7 +10,7 @@ We crafted the content of this talk together, but I'm going to talk and she's go
 Today we're both software engineers at ModCloth, even though neither of us have degrees in software.
 
 
-[3 SLIDE: Alias Rachel = Rachel]
+[√ 3 SLIDE: Alias Rachel = Rachel]
 
 My background is being a science nerd in high school and then a philosophy student at texas football school. No computer background!
 
