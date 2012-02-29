@@ -1,5 +1,5 @@
 $(function(){ 
-  var step_num = 0;  
+  var step_num = -3;  
   
   $('body').live('keyup', function(e){    
     if (e.which == 77) { step_num++; }
@@ -14,11 +14,8 @@ $(function(){
     $(currStepId).show();
     
     switch(step_num) {
-     case 1:
-       $('#ss1').show();
-       break;
-     case 2:
-       $('#ss2').show();
+     case 0:
+       $(currStepId).animate({top: '240px', left: '-100px'}, 1000);
        break;
      default:
      }
